@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1524695556 source:c:\users\nicholas gorden\documents\sources\c\cplusplus\arraysorter\src\sorter.cpp
+	<algorithm>
+	"Sorter.h"
+
+1524695064 c:\users\nicholas gorden\documents\sources\c\cplusplus\arraysorter\include\sorter.h
+
+1524686762 source:c:\users\nicholas gorden\documents\sources\c\cplusplus\arraysorter\src\utilities.cpp
+	<chrono>
+	<cstdlib>
+	<time.h>
+	"Utilities.h"
+
+1524686298 c:\users\nicholas gorden\documents\sources\c\cplusplus\arraysorter\include\utilities.h
+	<iostream>
+
+1524695541 source:c:\users\nicholas gorden\documents\sources\c\cplusplus\arraysorter\main.cpp
+	<iostream>
+	"Sorter.h"
+	"Utilities.h"
+
